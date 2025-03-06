@@ -1,297 +1,101 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Notes"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+This file is organized by semester, with each course having a direct link to its notes. Simply click on a course to dive into the content and start learning. Notes that are not typesetted were taken during the class and therefore they might contain a few incorrect calculations which I suppose readers will be able to figure out. I would appreciate if the reader makes me aware of those then I would be able to correct it. On the other hand those which are typesetted are significantly error free apart from having typos. Any suggestions, comments or corrections are requested to mailed at bp23ms109 at iiserkol dot ac dot in .
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+---
 
-## Tips and hints
+## Table of Contents
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+- [Semester 3: Autumn 2024](#autumn-2024)
+- [Semester 2: Spring 2024](#spring-2024)
+- [Semester 1: Autumn 2023](#autumn-2023)
 
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+---
 
-* While GitHub Pages prevents server side code from running, client-side scripts are supported.
-  * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
+## Autumn 2024
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+### Analysis I (MA2101)
+- [Notes](https://drive.google.com/drive/folders/1m5_ARL8ecJ52x7zaVYvMmheYP8uv3COR)
 
-## MathJax 
+### Linear Algebra (MA2102)
+- [Notes](https://drive.google.com/drive/folders/1Ns-66m5lnFXqliT88A4-hDCQ6dAjqZLJ)
 
-Support for MathJax Version 3.0 is included in the template:
+### Probability & Statistics I (MA2104)
+- [Notes](https://drive.google.com/drive/folders/1VaF9YpoQ1hbnMks0hiBdUgGjKQFHo-Wa)
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+### Mechanics II (PH2102)
+- [Notes](https://drive.google.com/drive/folders/1Aw5GN5v7mjwCoSBZ6v2Rdd57_lIKZaUA)
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+### Waves and Optics (PH2101)
+- [Notes](https://drive.google.com/drive/folders/1276jVq4zaf8PuWV62qHYS8GkGKUEMycN)
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+### Optics Laboratory (PH2103)
+- [Notes](https://drive.google.com/drive/folders/1W6xm1qizAZsyaA5qDButJZRI7GEH7ZkC)
 
-## Markdown guide
+### Rocks Minerals and Deformation (ES2103)
+- [Notes](https://drive.google.com/drive/folders/1RfCXDLgLYNoKAB8mBaQ9xnngb2XDdWWl)
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+### Geophysics (ES2104)
+- [Notes](https://drive.google.com/drive/folders/148YyVu_-A9MxzR6YJyZs1W876_ke69iq)
 
-### Header three
+### Earth Science Laboratory (ES2105)
+- [Notes](https://drive.google.com/drive/folders/1YJfhtnoZXeouJV53wXLlItPue3nnONMu)
 
-#### Header four
+---
 
-##### Header five
+## Spring 2024
 
-###### Header six
+### Mathematics II (MA1201)
+- [Notes](https://drive.google.com/drive/folders/10cHbWbHLj9m_y8FpXQVgpWIqeBzbc1Xu)
 
-## Blockquotes
+### Electricity & Magnetism (PH1201)
+- [Notes](https://drive.google.com/drive/folders/1WRIUW2GOx4vfRcNAaiIiREbdnUq7OGs4)
 
-Single line blockquote:
+### Elements of Chemistry II (CH1201)
+- [Notes](https://drive.google.com/drive/folders/11n57auoACADCcOXRyTz8xc9omRlCwzbn)
 
-> Quotes are cool.
+### Introduction to Biology II (LS1201)
+- [Notes](https://drive.google.com/drive/folders/1g-Zl0vPAbgAtJEujpqkqYeaoMK7sK9JI)
 
-## Tables
+### Earth System Processes (ES1201)
+- [Notes](https://drive.google.com/drive/folders/16BZ08Ks9u6alJurojvarLo59-TxtClKq)
 
-### Table 1
+### Physics Laboratory (PH1202)
+- [Notes](https://drive.google.com/drive/folders/1ET1N2ypuJ5eQ49ZC4GNow3pedEuiLqtG)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+### General Chemistry Laboratory (CH1202)
+- [Notes](https://drive.google.com/drive/folders/1gM9KzYv6hGdJdI8K3cYF_edyFqP7tAoY)
 
-### Table 2
+---
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+## Autumn 2023
 
-## Definition Lists
+### Mathematics I (MA1101)
+- [Notes](https://drive.google.com/drive/folders/1p9FjYAE3mz1ztGbXZuQh7uhfKM5FocQK)
 
-Definition List Title
-:   Definition list division.
+### Mechanics I (PH1101)
+- [Notes](https://drive.google.com/file/d/1iC20Of9U_2WghIA4pWhtpBcjvcZlbFO8/view)
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+### Elements of Chemistry I (CH1101)
+- [Notes](https://drive.google.com/drive/folders/1-TN9xT45rsA_EG162jx7RLCHWNiiRjhY)
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+### Introduction to Earth Science (ES1101)
+- [Notes](https://drive.google.com/drive/folders/1uygYL7FIpQjQb5Zf9PIdkgwxryFYzwE3)
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
-## Unordered Lists (Nested)
+### Introduction to Computer Programming (CS1101)
+- [Notes](https://drive.google.com/drive/folders/1ePit6zFvrVvcex6U2VPjRh7NjSG9rBsr)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+### Biology Laboratory (LS1102)
+- [Notes](https://drive.google.com/drive/folders/189gixGMcDeCdzRwBVE3YFffqjn9o-TUX)
 
-## Ordered List (Nested)
+---
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
-
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-```
-
-which wil render as:
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-
-### Footnotes
-
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
-
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
-
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
-
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "GitHub").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
-
-```python
-print('Hello World!')
-```
-
-or R:
-
-```R
-print("Hello World!", quote = FALSE)
-```
-
-### Details Tag (collapsible sections)
-
-The HTML `<details>` tag works well with Markdown and allows you to include collapsible sections, see [W3Schools](https://www.w3schools.com/tags/tag_details.asp) for more information on how to use the tag.
-
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-
-The source code:
-
-```HTML
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-```
-
-Or, you can leave a section open by default by including the `open` attribute in the tag:
-
-<details open>
-  <summary>Open by default</summary>
-  This section is open by default thanks to open in the &lt;details open&gt; tag!
-</details>
-
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-***
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
+*Best of Luck!*
